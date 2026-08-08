@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PixelPlants</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Fri, 07 Aug 2026 22:10:02 -0700</pubDate>
+            <sparkle:version>202608072209</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/vancityphotographer/pixelplants-releases/releases/download/v0.1.0/PixelPlants-0.1.0.zip" length="128749527" type="application/octet-stream" sparkle:edSignature="Jz6jIO0CTthzHV0BjKiywcIokL3HgprIGGPqN+rOQahTlvhc6G1sNsoGw8BnEvm/5bwnVjNUTs5mrOtyCSLfCg=="/>
+        </item>
+    </channel>
+</rss>
