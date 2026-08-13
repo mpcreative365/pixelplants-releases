@@ -3,13 +3,13 @@
     <channel>
         <title>PixelPlants</title>
         <item>
-            <title>0.2.0</title>
-            <pubDate>Wed, 12 Aug 2026 22:49:05 -0700</pubDate>
-            <sparkle:version>202608122247</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <title>0.2.1</title>
+            <pubDate>Thu, 13 Aug 2026 11:58:00 -0700</pubDate>
+            <sparkle:version>202608131156</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/mpcreative365/pixelplants-releases/releases/download/v0.2.0/PixelPlants-0.2.0.dmg" length="136154172" type="application/octet-stream" sparkle:edSignature="PaWRIufVLWhQDYGmT+xTNuJpeDQxELTYoJSPsTkMRXVUyhNI4PSAG1NBYGSfS0nALI40UaMt39P44+AwDyAMDw=="/>
+            <enclosure url="https://github.com/mpcreative365/pixelplants-releases/releases/download/v0.2.1/PixelPlants-0.2.1.dmg" length="136206010" type="application/octet-stream" sparkle:edSignature="BkdJ1BwWPqoEdOmht887vFbuCJB5cECXsc0KJP/FI3PK6VwLSfSO7KExI5LzB2SuQWC6a4boA3vxrA8kTaa5Cg=="/>
         </item>
     </channel>
 </rss>
